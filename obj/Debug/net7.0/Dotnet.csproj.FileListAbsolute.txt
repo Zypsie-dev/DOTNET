@@ -1,0 +1,15 @@
+/Users/zypsie/projects/Dotnet/Dotnet/bin/Debug/net7.0/Dotnet
+/Users/zypsie/projects/Dotnet/Dotnet/bin/Debug/net7.0/Dotnet.deps.json
+/Users/zypsie/projects/Dotnet/Dotnet/bin/Debug/net7.0/Dotnet.runtimeconfig.json
+/Users/zypsie/projects/Dotnet/Dotnet/bin/Debug/net7.0/Dotnet.dll
+/Users/zypsie/projects/Dotnet/Dotnet/bin/Debug/net7.0/Dotnet.pdb
+/Users/zypsie/projects/Dotnet/Dotnet/obj/Debug/net7.0/Dotnet.csproj.AssemblyReference.cache
+/Users/zypsie/projects/Dotnet/Dotnet/obj/Debug/net7.0/Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zypsie/projects/Dotnet/Dotnet/obj/Debug/net7.0/Dotnet.AssemblyInfoInputs.cache
+/Users/zypsie/projects/Dotnet/Dotnet/obj/Debug/net7.0/Dotnet.AssemblyInfo.cs
+/Users/zypsie/projects/Dotnet/Dotnet/obj/Debug/net7.0/Dotnet.csproj.CoreCompileInputs.cache
+/Users/zypsie/projects/Dotnet/Dotnet/obj/Debug/net7.0/Dotnet.dll
+/Users/zypsie/projects/Dotnet/Dotnet/obj/Debug/net7.0/refint/Dotnet.dll
+/Users/zypsie/projects/Dotnet/Dotnet/obj/Debug/net7.0/Dotnet.pdb
+/Users/zypsie/projects/Dotnet/Dotnet/obj/Debug/net7.0/Dotnet.genruntimeconfig.cache
+/Users/zypsie/projects/Dotnet/Dotnet/obj/Debug/net7.0/ref/Dotnet.dll
